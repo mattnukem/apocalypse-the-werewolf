@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-8.md) | [Home](README.md) | [Next Chapter](chapter-10.md)
+[[Previous Chapter](chapter-8.md)] [[Home](README.md)] [[Next Chapter](chapter-10.md)]
 
 “So you had a casual conversation with a Witch, that’s all?” Draki asked Amoc.
 
@@ -536,4 +536,4 @@ He says it with such confidence, it makes me want to believe it too. Only thing 
 
 “That’s all I ask.”
 
-[Previous Chapter](chapter-8.md) | [Home](README.md) | [Next Chapter](chapter-10.md)
+[[Previous Chapter](chapter-8.md)] [[Home](README.md)] [[Next Chapter](chapter-10.md)]

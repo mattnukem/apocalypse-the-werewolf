@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-15.md) | [Home](README.md) | [Next Chapter](epilogue.md)
+[[Previous Chapter](chapter-15.md)] [[Home](README.md)] [[Next Chapter](epilogue.md)]
 
 “She’s very good at hiding her scent, I’ll give her that.” Amoc was saying as Sadie escorted a human girl into the clearing.
 
@@ -548,4 +548,4 @@ Miriam’s somber expression changed to a smile of genuine joy. She stood up fro
 
 “Thank you, Amoc.” Miriam concluded. “For reminding me… reminding us how to live again. And for giving the living a fighting chance.”
 
-[Previous Chapter](chapter-15.md) | [Home](README.md) | [Next Chapter](epilogue.md)
+[[Previous Chapter](chapter-15.md)] [[Home](README.md)] [[Next Chapter](epilogue.md)]

@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-12.md) | [Home](README.md) | [Next Chapter](chapter-14.md)
+[[Previous Chapter](chapter-12.md)] [[Home](README.md)] [[Next Chapter](chapter-14.md)]
 
 “Are we there yet?” Amoc’s voice came over the LAV’s radio.
 
@@ -644,4 +644,4 @@ Another roll of thunder.
 
 “Come on.” Greg motioned for them to follow. “Clearly we’ve both got a lot to fill each other in on.”
 
-[Previous Chapter](chapter-12.md) | [Home](README.md) | [Next Chapter](chapter-14.md)
+[[Previous Chapter](chapter-12.md)] [[Home](README.md)] [[Next Chapter](chapter-14.md)]

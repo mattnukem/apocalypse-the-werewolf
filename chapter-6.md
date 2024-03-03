@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-5.md) | [Home](README.md) | [Next Chapter](chapter-7.md)
+[[Previous Chapter](chapter-5.md)] [[Home](README.md)] [[Next Chapter](chapter-7.md)]
 
 “Jenine’s missing!” Logan exclaimed as he came down the stairs to the basement.
 
@@ -232,4 +232,4 @@ Simon and Amoc looked at each other for a moment. Oursa was offering to join the
 
 Oursa nodded approval. Everything since the start of the apocalypse had been horrible… except for what had happened between him and Amoc, and what was now happening here in Logan’s compound. It was enough to make Simon think that maybe they really could turn this thing around. It definitely made him excited to find out what would happen next.
 
-[Previous Chapter](chapter-5.md) | [Home](README.md) | [Next Chapter](chapter-7.md)
+[[Previous Chapter](chapter-5.md)] [[Home](README.md)] [[Next Chapter](chapter-7.md)]

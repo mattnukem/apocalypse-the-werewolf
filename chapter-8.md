@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-7.md) | [Home](README.md) | [Next Chapter](chapter-9.md)
+[[Previous Chapter](chapter-7.md)] [[Home](README.md)] [[Next Chapter](chapter-9.md)]
 
 They came from underground.
 
@@ -620,4 +620,4 @@ It was a genuinely sincere request.
 
 “Thank you, I would like that as well.” Amoc concluded.
 
-[Previous Chapter](chapter-7.md) | [Home](README.md) | [Next Chapter](chapter-9.md)
+[[Previous Chapter](chapter-7.md)] [[Home](README.md)] [[Next Chapter](chapter-9.md)]

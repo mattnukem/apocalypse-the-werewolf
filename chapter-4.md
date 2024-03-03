@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-3.md) | [Home](README.md) | [Next Chapter](chapter-5.md)
+[[Previous Chapter](chapter-3.md)] [[Home](README.md)] [[Next Chapter](chapter-5.md)]
 
 “Have you never just been a tourist?” Simon was asking Amoc.
 
@@ -646,4 +646,4 @@ Logan had pointed to Amoc. The compound residents definitely hadn’t experience
 
 “No.” Draki explained. “It’s already happening.”
 
-[Previous Chapter](chapter-3.md) | [Home](README.md) | [Next Chapter](chapter-5.md)
+[[Previous Chapter](chapter-3.md)] [[Home](README.md)] [[Next Chapter](chapter-5.md)]

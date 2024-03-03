@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-9.md) | [Home](README.md) | [Next Chapter](chapter-11.md)
+[[Previous Chapter](chapter-9.md)] [[Home](README.md)] [[Next Chapter](chapter-11.md)]
 
 “Simon, wake up!” Amoc was calling out. “We’ve got a lot to prep before sunrise.”
 
@@ -630,4 +630,4 @@ Footsteps were thundering down the hallway now; the rest of the Argo’s crew we
 
 “Oh I’ve one hell of a story for you.” Simon began.
 
-[Previous Chapter](chapter-9.md) | [Home](README.md) | [Next Chapter](chapter-11.md)
+[[Previous Chapter](chapter-9.md)] [[Home](README.md)] [[Next Chapter](chapter-11.md)]

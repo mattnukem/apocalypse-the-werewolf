@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-6.md) | [Home](README.md) | [Next Chapter](chapter-8.md)
+[[Previous Chapter](chapter-6.md)] [[Home](README.md)] [[Next Chapter](chapter-8.md)]
 # Intro
 Welcome back to my fantasy genre mashup/gothic horror… thing. I needed a couple of months off because writing, for those unaware, is quite a lot of work. I often stay up far too late trying to get ideas out fully formed, for fear of losing the thread of what it was I was writing if I pause. If I’m not writing, then I’m trying to clean up/add notes to the markdown files I use for keeping track of everything. Such is how these things go. I have grand plans for this story and this world, and a lot more story swimming around in my head that I hope to be able to put to words in this digital medium over time.
 
@@ -610,4 +610,4 @@ The pines continued to whiz by in a respectful quiet following Draki’s first r
 
 Marcus laughed. Amoc had no idea what it was about, but it was good to see. They were an odd group, no doubt about that, but if anyone could make it to D.C., they would.
 
-[Previous Chapter](chapter-6.md) | [Home](README.md) | [Next Chapter](chapter-8.md)
+[[Previous Chapter](chapter-6.md)] [[Home](README.md)] [[Next Chapter](chapter-8.md)]

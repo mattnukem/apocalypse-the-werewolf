@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-1.md) | [Home](README.md) | [Next Chapter](chapter-3.md)
+[[Previous Chapter](chapter-1.md)] [[Home](README.md)] [[Next Chapter](chapter-3.md)]
 # A Second Intro
 A second chapter of this story? Indeed! There’s a story plan now, rules for this world that I’ve had rattling around in my head for years, and they’re finally in writing. All it needs now is for me to hold onto the momentum to keep it going. Amoc and Simon’s story is just beginning, and I want to find out how their journey gets to its conclusion.
 
@@ -549,4 +549,4 @@ Fortunately, no such events happened. In fact, the last few days had been entire
 
 Simon’s relationship with Amoc continued to evolve. There were no barriers anymore, but it was clear there was still so much to his world that Simon had only scratched the surface of, and only so much Amoc could put to words in a day. Canada hopefully held Amoc’s answers. It was a plan. A thin one, perhaps, but it was better than aimlessly wandering waiting for the end to come. It was purpose, something that was not at all easy to find anymore. It was a reason to keep moving forward.
 
-[Previous Chapter](chapter-1.md) | [Home](README.md) | [Next Chapter](chapter-3.md)
+[[Previous Chapter](chapter-1.md)] [[Home](README.md)] [[Next Chapter](chapter-3.md)]

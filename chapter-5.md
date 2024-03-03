@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-4.md) | [Home](README.md) | [Next Chapter](chapter-6.md)
+[[Previous Chapter](chapter-4.md)] [[Home](README.md)] [[Next Chapter](chapter-6.md)]
 
 It’s quite the thing, having your world turned upside down in a moment. Especially when it happens twice. One moment you’re finishing the late tour boat shift, and the next the dead are flooding down Canal Street killing anyone in their way. Then one night after surviving the undead for over a year, you slip up and make a mistake, and a werewolf comes out of the darkness and saves your life.
 
@@ -594,4 +594,4 @@ Like brothers, indeed.
 
 “Magnifique!” Logan exclaimed. “I wouldn’t have it any other way.”
 
-[Previous Chapter](chapter-4.md) | [Home](README.md) | [Next Chapter](chapter-6.md)
+[[Previous Chapter](chapter-4.md)] [[Home](README.md)] [[Next Chapter](chapter-6.md)]

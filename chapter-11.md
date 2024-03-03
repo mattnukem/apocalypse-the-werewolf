@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-10.md) | [Home](README.md) | [Next Chapter](chapter-12.md)
+[[Previous Chapter](chapter-10.md)] [[Home](README.md)] [[Next Chapter](chapter-12.md)]
 
 “You know they will figure it out eventually, right?” Sam was saying. “Maybe not exactly what we are, but they’re going to start wondering how the three of us made it through everything so far without so much as a scratch.”
 
@@ -598,4 +598,4 @@ John sighed the sigh of a man that realized there was no rest coming any time so
 
 “Attaboy.” Sadie concluded.
 
-[Previous Chapter](chapter-10.md) | [Home](README.md) | [Next Chapter](chapter-12.md)
+[[Previous Chapter](chapter-10.md)] [[Home](README.md)] [[Next Chapter](chapter-12.md)]

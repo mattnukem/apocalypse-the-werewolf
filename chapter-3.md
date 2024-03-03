@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-2.md) | [Home](README.md) | [Next Chapter](chapter-4.md)
+[[Previous Chapter](chapter-2.md)] [[Home](README.md)] [[Next Chapter](chapter-4.md)]
 # Intro
 Here we are again with the third chapter in my silly fantasy story.
 
@@ -550,4 +550,4 @@ If this is home now, I could get used to this. First I need to have that talk wi
 
 Amoc fell asleep for the first time since the apocalypse started feeling that the world had improved a little bit.
 
-[Previous Chapter](chapter-2.md) | [Home](README.md) | [Next Chapter](chapter-4.md)
+[[Previous Chapter](chapter-2.md)] [[Home](README.md)] [[Next Chapter](chapter-4.md)]

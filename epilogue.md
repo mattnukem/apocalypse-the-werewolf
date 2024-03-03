@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-16.md) | [Home](README.md)
+[[Previous Chapter](chapter-16.md)] [[Home](README.md)]
 
 Amoc let out a short growl. He was shifted to his wolf form, and Maggie had made an offhand comment about how ‘cute’ he looked. Simon hadn’t been able to stop a chortle from escaping. Maggie hadn’t had an opportunity to see Amoc use the wolf form before now, and the comment had been her first reaction. Amoc’s solid brown coat definitely made him a striking wolf; Simon couldn't deny that.
 
@@ -202,4 +202,4 @@ Amoc laughed.
 
 “Everything and then some.”
 
-[Previous Chapter](chapter-16.md) | [Home](README.md)
+[[Previous Chapter](chapter-16.md)] [[Home](README.md)]

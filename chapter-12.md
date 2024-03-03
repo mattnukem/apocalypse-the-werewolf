@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-11.md) | [Home](README.md) | [Next Chapter](chapter-13.md)
+[[Previous Chapter](chapter-11.md)] [[Home](README.md)] [[Next Chapter](chapter-13.md)]
 
 “You sure about this?” Simon asked. “Our whole thing has been that we don’t fight hordes unless we need to.”
 
@@ -644,4 +644,4 @@ Yeah, nothing’s changed there.
 
 “Let’s hope for a quick trip.” Amoc sarcastically concluded.
 
-[Previous Chapter](chapter-11.md) | [Home](README.md) | [Next Chapter](chapter-13.md)
+[[Previous Chapter](chapter-11.md)] [[Home](README.md)] [[Next Chapter](chapter-13.md)]

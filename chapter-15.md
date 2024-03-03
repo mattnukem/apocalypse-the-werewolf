@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-14.md) | [Home](README.md) | [Next Chapter](chapter-16.md)
+[[Previous Chapter](chapter-14.md)] [[Home](README.md)] [[Next Chapter](chapter-16.md)]
 
 Simon woke suddenly. That in itself wasn’t so unusual, and had in fact become annoyingly common. What was unusual was the feeling that woke him. Something was making a hell of a lot of noise in The Veil. Simon wasn’t sure how to describe it, though an analogy might be like the sound of distant gunfire. If that gunfire could only be heard by Simon’s newfound sixth sense.
 
@@ -566,4 +566,4 @@ Simon turned to walk back towards the elevator with Draki in tow. They entered a
 
 “As do I.”
 
-[Previous Chapter](chapter-14.md) | [Home](README.md) | [Next Chapter](chapter-16.md)
+[[Previous Chapter](chapter-14.md)] [[Home](README.md)] [[Next Chapter](chapter-16.md)]

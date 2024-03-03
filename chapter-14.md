@@ -1,4 +1,4 @@
-[Previous Chapter](chapter-13.md) | [Home](README.md) | [Next Chapter](chapter-15.md)
+[[Previous Chapter](chapter-13.md)] [[Home](README.md)] [[Next Chapter](chapter-15.md)]
 
 “I’m not certain I’ll ever get used to being inside during a storm.”
 
@@ -570,4 +570,4 @@ Amoc was genuinely in awe.
 
 “Well you never met us.” Sadie concluded.
 
-[Previous Chapter](chapter-13.md) | [Home](README.md) | [Next Chapter](chapter-15.md)
+[[Previous Chapter](chapter-13.md)] [[Home](README.md)] [[Next Chapter](chapter-15.md)]
