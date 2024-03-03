@@ -1,3 +1,5 @@
+[Previous Chapter](chapter-11.md) | [Home](README.md) | [Next Chapter](chapter-13.md)
+
 “You sure about this?” Simon asked. “Our whole thing has been that we don’t fight hordes unless we need to.”
 
 Amoc was fully geared up and in war form; sword, ballistic jumpsuit, and Simon’s fifty pound tower shield. Shield fighting was something he’d never really practiced, as it wasn’t a tactic Garou used before the undead. A shield was mainly a defensive implement, and Garou were built to strike fast and decisively. It was antithetical to how they normally fought. Amoc knew some basic shield fighting theory, mostly just what he learned out of curiosity, but in his time as a Hunter there had never been any need for it.
@@ -641,3 +643,5 @@ Again Amoc looked around at the faces in front of him, human and otherwise, and 
 Yeah, nothing’s changed there.
 
 “Let’s hope for a quick trip.” Amoc sarcastically concluded.
+
+[Previous Chapter](chapter-11.md) | [Home](README.md) | [Next Chapter](chapter-13.md)

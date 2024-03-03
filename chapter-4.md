@@ -1,3 +1,5 @@
+[Previous Chapter](chapter-3.md) | [Home](README.md) | [Next Chapter](chapter-5.md)
+
 “Have you never just been a tourist?” Simon was asking Amoc.
 
 “I’ve never had the opportunity.” Amoc tried to explain. “Things… keep me busy. Travel is never for leisure.”
@@ -643,3 +645,5 @@ Logan had pointed to Amoc. The compound residents definitely hadn’t experience
 “Is that a prediction from The Veil?” Logan asked Draki.
 
 “No.” Draki explained. “It’s already happening.”
+
+[Previous Chapter](chapter-3.md) | [Home](README.md) | [Next Chapter](chapter-5.md)

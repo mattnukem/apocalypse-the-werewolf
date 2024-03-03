@@ -1,3 +1,5 @@
+[Previous Chapter](chapter-14.md) | [Home](README.md) | [Next Chapter](chapter-16.md)
+
 Simon woke suddenly. That in itself wasn’t so unusual, and had in fact become annoyingly common. What was unusual was the feeling that woke him. Something was making a hell of a lot of noise in The Veil. Simon wasn’t sure how to describe it, though an analogy might be like the sound of distant gunfire. If that gunfire could only be heard by Simon’s newfound sixth sense.
 
 Throwing the bedsheets off and stepping out into the quasi hotel room, Simon walked over to the door, intent on going down to Amoc’s room. Only he realized that Amoc was already in the hallway, moving his way.
@@ -563,3 +565,5 @@ Simon turned to walk back towards the elevator with Draki in tow. They entered a
 “No pressure, right?” Simon nervously chucked. “I sure as hell hope I’m right about this.
 
 “As do I.”
+
+[Previous Chapter](chapter-14.md) | [Home](README.md) | [Next Chapter](chapter-16.md)

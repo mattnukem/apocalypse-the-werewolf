@@ -1,3 +1,4 @@
+[Previous Chapter](chapter-2.md) | [Home](README.md) | [Next Chapter](chapter-4.md)
 # Intro
 Here we are again with the third chapter in my silly fantasy story.
 
@@ -548,3 +549,5 @@ Amoc did. The house had been built to accommodate a large number of unrelated pe
 If this is home now, I could get used to this. First I need to have that talk with Logan, but that’s a problem for tomorrow’s Amoc. Tonight’s Amoc is just going to get some sleep.
 
 Amoc fell asleep for the first time since the apocalypse started feeling that the world had improved a little bit.
+
+[Previous Chapter](chapter-2.md) | [Home](README.md) | [Next Chapter](chapter-4.md)

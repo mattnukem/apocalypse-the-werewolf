@@ -1,3 +1,5 @@
+[Previous Chapter](chapter-13.md) | [Home](README.md) | [Next Chapter](chapter-15.md)
+
 “I’m not certain I’ll ever get used to being inside during a storm.”
 
 Draki’s off-hand comment came after a particularly loud thunderclap rattled off the walls.
@@ -567,3 +569,5 @@ Amoc was genuinely in awe.
 “Thanks, really.” Amoc replied. “Been a long time since I met a bunch of Garou and it wasn’t just business.”
 
 “Well you never met us.” Sadie concluded.
+
+[Previous Chapter](chapter-13.md) | [Home](README.md) | [Next Chapter](chapter-15.md)

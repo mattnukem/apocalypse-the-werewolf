@@ -1,3 +1,5 @@
+[Previous Chapter](chapter-15.md) | [Home](README.md) | [Next Chapter](epilogue.md)
+
 “She’s very good at hiding her scent, I’ll give her that.” Amoc was saying as Sadie escorted a human girl into the clearing.
 
 The hunt had been put on hold following Simon’s revelation about what Silverclaw had been doing when he had been killed by the dragon. Burgh swore up and down that he hadn’t known, and seemed to be telling the truth. Burgh did know about the hunts, and though it didn’t rule out willful ignorance about their choice of bait, it seemed more and more that Burgh and the three other surviving Fenris Garou didn’t entirely share Silverclaw’s vision.
@@ -545,3 +547,5 @@ Amoc remembered his first conversation with Miriam back in Albany. The ritual of
 Miriam’s somber expression changed to a smile of genuine joy. She stood up from where she had been sitting and bowed before Amoc in the gesture concluding a balanced trade. In all his dealings with Witches, Amoc had never been on the receiving end of that gesture; he had only ever been the one giving it. Amoc almost forgot to give the reciprocal gesture.
 
 “Thank you, Amoc.” Miriam concluded. “For reminding me… reminding us how to live again. And for giving the living a fighting chance.”
+
+[Previous Chapter](chapter-15.md) | [Home](README.md) | [Next Chapter](epilogue.md)

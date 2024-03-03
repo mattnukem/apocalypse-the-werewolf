@@ -1,3 +1,5 @@
+[Previous Chapter](chapter-7.md) | [Home](README.md) | [Next Chapter](chapter-9.md)
+
 They came from underground.
 
 The irony of that fact wasn’t lost on Simon as they drove through the streets of Montreal at high speed. Draki’s scouting had spotted three major hordes, all of which were out of their way. It looked like an easy run to the boat. Simon figured that he should have known it was too good to be true.
@@ -617,3 +619,5 @@ Amoc nodded to Miriam in thanks, and again began to walk away.
 It was a genuinely sincere request.
 
 “Thank you, I would like that as well.” Amoc concluded.
+
+[Previous Chapter](chapter-7.md) | [Home](README.md) | [Next Chapter](chapter-9.md)

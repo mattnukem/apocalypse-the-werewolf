@@ -1,3 +1,5 @@
+[Previous Chapter](chapter-9.md) | [Home](README.md) | [Next Chapter](chapter-11.md)
+
 “Simon, wake up!” Amoc was calling out. “We’ve got a lot to prep before sunrise.”
 
 Simon rolled over in his bed in the pitch black room. Sleep had its claws in deep, and conscious thought was a struggle. He had a sudden feeling of panic, the kind that comes from waking up in a strange place. This feeling had come a few times while sleeping on the boat, but it had been quite a while since it last happened. Simon reached up for the reading light, and failed to find it. He then reached for the small table next to the bed… and found only more bed. The feeling of panic was growing. Reaching further Simon finally found a surface and what felt like a switch, and flipped it. A light turned on, revealing a plain-looking hotel room.
@@ -627,3 +629,5 @@ Footsteps were thundering down the hallway now; the rest of the Argo’s crew we
 “I was about to ask you the same question!” Amoc exclaimed.
 
 “Oh I’ve one hell of a story for you.” Simon began.
+
+[Previous Chapter](chapter-9.md) | [Home](README.md) | [Next Chapter](chapter-11.md)

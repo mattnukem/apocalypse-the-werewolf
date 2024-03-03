@@ -1,3 +1,5 @@
+[Previous Chapter](chapter-8.md) | [Home](README.md) | [Next Chapter](chapter-10.md)
+
 “So you had a casual conversation with a Witch, that’s all?” Draki asked Amoc.
 
 They were underway again, just having left Albany following the encounter with Miriam, headed south on the Hudson River to New York City. Simon was at the helm, and Amoc was with him. Draki and Marcus had joined them shortly after leaving. Amoc wasn’t surprised that Draki brought up their encounter as the first topic of discussion.
@@ -533,3 +535,5 @@ He says it with such confidence, it makes me want to believe it too. Only thing 
 “Thanks Simon, I’m trying.”
 
 “That’s all I ask.”
+
+[Previous Chapter](chapter-8.md) | [Home](README.md) | [Next Chapter](chapter-10.md)

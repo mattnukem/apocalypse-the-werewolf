@@ -1,3 +1,5 @@
+[Previous Chapter](chapter-5.md) | [Home](README.md) | [Next Chapter](chapter-7.md)
+
 “Jenine’s missing!” Logan exclaimed as he came down the stairs to the basement.
 
 Jenine was one of the early survivors, a high school science teacher from somewhere down south, up here on vacation when the apocalypse started. She was the first survivor Logan had found after the apocalypse kicked off, so Simon had been told.
@@ -229,3 +231,5 @@ Simon and Amoc looked at each other for a moment. Oursa was offering to join the
 “I’ll need to talk it over with Logan.” Amoc offered. “But I’m pretty sure he’ll be happy to have you, Oursa. For however long you want to be here.”
 
 Oursa nodded approval. Everything since the start of the apocalypse had been horrible… except for what had happened between him and Amoc, and what was now happening here in Logan’s compound. It was enough to make Simon think that maybe they really could turn this thing around. It definitely made him excited to find out what would happen next.
+
+[Previous Chapter](chapter-5.md) | [Home](README.md) | [Next Chapter](chapter-7.md)

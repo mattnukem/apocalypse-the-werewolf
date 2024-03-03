@@ -1,3 +1,4 @@
+[Home](README.md) | [Next Chapter](chapter-2.md)
 # Intro
 This is the story of a werewolf and a human vs. the endless undead. It is a silly story, told very dramatically. It’s mostly an exercise to see if I can actually discipline myself enough to put an idea to paper that doesn’t involve a tabletop game, though I will certainly be borrowing from those sources to create a mashup of my own.
 
@@ -588,3 +589,5 @@ A few moments went by as they both continued to regard the sunrise.
 “Yeah.”
 
 They both had a lot of questions for each other, and a lot to learn from each other. The world was still the domain of the undead, but now it felt a lot less lonely.
+
+[Home](README.md) | [Next Chapter](chapter-2.md)

@@ -1,3 +1,5 @@
+[Previous Chapter](chapter-10.md) | [Home](README.md) | [Next Chapter](chapter-12.md)
+
 “You know they will figure it out eventually, right?” Sam was saying. “Maybe not exactly what we are, but they’re going to start wondering how the three of us made it through everything so far without so much as a scratch.”
 
 It was their first group meeting since the world had gone to hell. It had all happened so fast, they hadn’t really had time to even think about things like planning outings for wolfing out, pest control, or anything else the Veil decided to throw at them during normal times. The zombie apocalypse had flipped the table on the whole world, Elk Valley included. Lots of houses were vacant now, and Sam had called them to this one to talk about what needed to happen now that everything was different.
@@ -595,3 +597,5 @@ John sighed the sigh of a man that realized there was no rest coming any time so
 “Let’s give it a try.” John stated with conviction.
 
 “Attaboy.” Sadie concluded.
+
+[Previous Chapter](chapter-10.md) | [Home](README.md) | [Next Chapter](chapter-12.md)
